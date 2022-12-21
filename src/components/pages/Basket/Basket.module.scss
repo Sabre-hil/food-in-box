@@ -1,0 +1,39 @@
+.mainBlock {
+  background-color: white;
+  height: 900px;
+}
+.block {
+display: flex;
+justify-content: center;
+align-items: center;
+ margin-top: 30px; 
+ background-color: white;
+ flex-direction: column;
+ border-radius: 20px;
+ height: 500px;
+}
+.description {
+  font-size: 100px;
+  color: rebeccapurple;
+}
+.button {
+  border-radius: 15px;
+  background-color: #fe5f1e;
+  font-size: 16px;
+  padding: 20px 15px 20px 15px;
+  margin-bottom: 30px;
+  border: none;
+  display: inline-block;
+
+  a {
+    color: white;
+  }
+}
+
+.container {
+  width: 1245px;
+  margin: auto;
+}
+.basketMessage {
+  font-size: 50px;
+}

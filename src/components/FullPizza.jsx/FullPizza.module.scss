@@ -1,0 +1,24 @@
+.block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 70px;
+}
+.propBlock {
+  display: flex;
+  justify-content: space-around;
+}
+.image {
+  width: 500px;
+  height: 500px;
+}
+.rating {
+  font-size: 24px;
+}
+.price {
+  font-size: 24px;
+}
+.download {
+  text-align: center;
+  margin-top: 200px;
+}

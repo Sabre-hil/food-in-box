@@ -1,0 +1,36 @@
+.searchBlock {
+  position: relative;
+  right: 62px;
+}
+
+.search {
+  background-color: #f9f9f9;
+  width: 300px;
+  padding: 10px 40px 7px 7px;
+  border: 1px solid #0000;
+  border-radius: 15px;
+  font-size: 17px;
+  
+}
+
+.searchLogo {
+  width: 30px;
+  position: relative;
+  width: 27px;
+  top: 8px;
+  opacity: 0.3;
+}
+
+.clearLogo {
+  position: absolute;
+  width: 22px;
+  right: 6px;
+  top: 10px;
+  opacity: 0.4;
+  
+  &:hover {
+    opacity: 0.8;
+  }
+
+}
+

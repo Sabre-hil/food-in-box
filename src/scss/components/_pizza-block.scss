@@ -4,10 +4,11 @@
   width: 280px;
   text-align: center;
   margin-bottom: 65px;
+  margin-right: 20px;
 
-  &:not(:nth-of-type(4n)) {
-    margin-right: 35px;
-  }
+  // &:not(:nth-of-type(4n)) {
+  //   margin-right: 35px;
+  // }
 
   &__image {
     width: 260px;
@@ -26,6 +27,7 @@
     border-radius: 10px;
     flex-direction: column;
     padding: 6px;
+
 
     ul {
       display: flex;
